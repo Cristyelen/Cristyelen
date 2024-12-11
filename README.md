@@ -5,7 +5,7 @@ Este e-book de 6 páginas explora como a Inteligência Artificial está revoluci
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criação e organização do conteúdo;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para o design visual do e-book, com gráficos e ilustrações dinâmicas;
+- IA Generativa **[Gamma](https://gamma.app)** para o design visual do e-book, com gráficos e ilustrações dinâmicas;
 - Ferramenta **Canva** para finalização e diagramação do material.
 
 ## 🧐 Processo de Criação
