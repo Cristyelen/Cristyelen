@@ -1,7 +1,7 @@
 # IA no Marketing: Inovação que Gera Resultados 📈
 
 ## 📒 Descrição
-Este e-book de 6 páginas explora como a Inteligência Artificial está revolucionando o marketing digital, desde a análise de dados até a personalização de campanhas, proporcionando estratégias mais eficientes e impactantes.
+Este e-book de 8 páginas explora como a Inteligência Artificial está revolucionando o marketing digital, desde a análise de dados até a personalização de campanhas, proporcionando estratégias mais eficientes e impactantes.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para criação e organização do conteúdo;
